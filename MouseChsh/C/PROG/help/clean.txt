@@ -1,0 +1,2 @@
+Clean all data in bin in this computer, just keep the data in the env.
+In UAC(Administrator), can clean the data in sbin.

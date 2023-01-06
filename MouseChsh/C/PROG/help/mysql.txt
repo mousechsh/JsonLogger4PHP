@@ -1,0 +1,8 @@
+MySQL Install Steps
+1 - Run [mysqld-init.bat]
+2 - Run [mysqladmin.bat password -uroot -p], change temp password
+3 - Run [mysqld.bat], then MySQL Service is on
+4 - Run [sv-mysql.bat install], install MySQL service into Windows
+MySQL Uninstall Steps
+1 - Run [sv-mysql.bat uninstall], uninstall MySQL service from Windows
+2 - Run [mysqld-clean.bat], remove data files

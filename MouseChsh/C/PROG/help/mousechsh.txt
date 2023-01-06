@@ -1,0 +1,5 @@
+MouseChsh Environment Starter Help
+no param: open cmd with normal mode
+-u / --UAC: open cmd with administrative mode. This param must at first.
+-r / --run: run command with normal mode. This param must at first.
+-c / --run-with-uac: run command with administrative mode. This param must at first.
